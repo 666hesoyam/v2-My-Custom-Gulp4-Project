@@ -1,0 +1,50 @@
+/*-------------------------------------------------------------
+
+    Project:        X
+    Author:         Anton Shaposhnikov
+	Telegram:		https://t.me/hesoyam_666
+    Website:        https://666hesoyam.github.io/portfolio/
+
+--------------------------------------------------------------*/
+html {
+  overflow-x: hidden;
+  box-sizing: border-box; }
+
+body {
+  font-family: Hind, sans-serif;
+  background-color: aquamarine;
+  color: #000; }
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0; }
+
+a, a:focus, a:hover, a:active {
+  outline: 0;
+  color: inherit;
+  text-decoration: none; }
+
+:active,
+:focus {
+  outline: none; }
+
+.header {
+  background-color: palevioletred;
+  width: 100%;
+  height: 12vh; }
+
+.container_header {
+  border: 2px solid plum;
+  height: 100%;
+  text-align: center; }
+
+.footer {
+  background-color: palevioletred;
+  width: 100%;
+  height: 12vh; }
+
+.container_footer {
+  border: 2px solid plum;
+  height: 100%;
+  text-align: center; }
